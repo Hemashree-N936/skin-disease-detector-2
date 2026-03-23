@@ -1,0 +1,20 @@
+2026-03-22 20:24:06,279 - INFO - Using device: cpu
+2026-03-22 20:24:13,494 - INFO - Model: efficientnet_b4
+2026-03-22 20:24:13,495 - INFO - Total parameters: 18,468,171
+2026-03-22 20:24:13,495 - INFO - Trainable parameters: 919,555
+2026-03-22 20:24:33,109 - INFO - Using device: cpu
+2026-03-22 20:24:33,481 - INFO - Model: efficientnet_b4
+2026-03-22 20:24:33,482 - INFO - Total parameters: 18,468,171
+2026-03-22 20:24:33,482 - INFO - Trainable parameters: 919,555
+2026-03-22 20:24:33,486 - INFO - Starting training...
+2026-03-22 20:24:33,486 - INFO - Configuration: {'NUM_EPOCHS': 20, 'BATCH_SIZE': 32, 'LEARNING_RATE': 0.0001, 'WEIGHT_DECAY': 1e-05, 'DROPOUT_RATE': 0.3, 'FREEZE_BACKBONE': True, 'DEVICE': 'auto', 'SAVE_BEST_MODEL': True, 'SAVE_LAST_MODEL': True, 'MODEL_SAVE_DIR': 'models', 'PATIENCE': 7, 'MIN_DELTA': 0.001, 'CLASS_NAMES': ['acne', 'psoriasis', 'eczema']}
+2026-03-22 20:24:33,493 - INFO - Loading dataset...
+2026-03-22 20:24:33,494 - INFO - Dataset preparation started
+2026-03-22 20:25:45,711 - INFO - Using device: cpu
+2026-03-22 20:25:46,004 - INFO - Model: efficientnet_b4
+2026-03-22 20:25:46,005 - INFO - Total parameters: 18,468,171
+2026-03-22 20:25:46,005 - INFO - Trainable parameters: 919,555
+2026-03-22 20:25:46,008 - INFO - Starting training...
+2026-03-22 20:25:46,009 - INFO - Configuration: {'NUM_EPOCHS': 20, 'BATCH_SIZE': 32, 'LEARNING_RATE': 0.0001, 'WEIGHT_DECAY': 1e-05, 'DROPOUT_RATE': 0.3, 'FREEZE_BACKBONE': True, 'DEVICE': 'auto', 'SAVE_BEST_MODEL': True, 'SAVE_LAST_MODEL': True, 'MODEL_SAVE_DIR': 'models', 'PATIENCE': 7, 'MIN_DELTA': 0.001, 'CLASS_NAMES': ['acne', 'psoriasis', 'eczema']}
+2026-03-22 20:25:46,009 - INFO - Loading dataset...
+2026-03-22 20:25:46,010 - INFO - Dataset preparation started
